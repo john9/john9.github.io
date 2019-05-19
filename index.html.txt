@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>SEO Beginner</h1>
-<p>I'm hosted with GitHub</p>
-<p>Find out more on <a href="https://dirgeobiz.com">DirGeoBiz</a> </p>
-</body>
-</html>
